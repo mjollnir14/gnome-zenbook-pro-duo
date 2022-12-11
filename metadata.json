@@ -1,0 +1,8 @@
+{
+  "name": "Asus Zenbook Duo Brightness",
+  "description": "Change brightness of the 2nd screen on Asus Pro Duo",
+  "uuid": "asusproduo@mindcraft.be",
+  "shell-version": [
+    "43"
+  ]
+}
